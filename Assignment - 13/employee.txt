@@ -1,0 +1,4 @@
+Employee ID: 101
+Name: Raghav
+Department: Computer Science
+Salary: 50000
